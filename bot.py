@@ -1,3 +1,4 @@
+import streamlit as st
 st.title("Mimo - AI Assistant")
 
 input_name = st.text_input("Hi, My name is mimo. What's your name?")
